@@ -3,59 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://plasma-team.github.io/blog/test/</loc>
-    <lastmod>2018-05-11T21:42:38+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/articles/first-post/</loc>
-    <lastmod>2018-05-11T21:13:07+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/projects/small-project/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/blog/example-article/</loc>
-    <lastmod>2015-09-28T00:00:00+00:00</lastmod>
+    <loc>https://plasma-team.github.io/blog/first-post/</loc>
+    <lastmod>2018-05-11T22:06:54+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://plasma-team.github.io/about/</loc>
-    <lastmod>2015-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/projects/projects/</loc>
-    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/blog/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/blog/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/blog/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/articles/</loc>
-    <lastmod>2018-05-11T21:13:07+07:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://plasma-team.github.io/blog/</loc>
-    <lastmod>2018-05-11T21:42:38+07:00</lastmod>
+    <lastmod>2018-05-11T22:06:54+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,82 +24,23 @@
   </url>
   
   <url>
-    <loc>https://plasma-team.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://plasma-team.github.io/home/</loc>
   </url>
   
   <url>
-    <loc>https://plasma-team.github.io/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/license/</loc>
-  </url>
-  
-  <url>
     <loc>https://plasma-team.github.io/</loc>
-    <lastmod>2018-05-11T21:42:38+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/projects/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/tags/projects/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-11T22:06:54+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plasma-team.github.io/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://plasma-team.github.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plasma-team.github.io/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://plasma-team.github.io/tags/tags/</loc>
+    <lastmod>2018-05-11T22:06:54+07:00</lastmod>
     <priority>0</priority>
   </url>
   
